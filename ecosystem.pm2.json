@@ -1,0 +1,10 @@
+{
+"name": "minibot",
+"cwd": "C:\Users\M. Milki\Downloads\Compressed\v13\v13",
+"script": "npm",
+"args": "start",
+"watch": false,
+"env": {
+"NODE_ENV": "production"
+}
+}
