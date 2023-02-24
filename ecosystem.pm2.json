@@ -1,6 +1,6 @@
 {
 "name": "minibot",
-"cwd": "C:\Users\M. Milki\Downloads\Compressed\v13\v13",
+"cwd": "/root/minibot",
 "script": "npm",
 "args": "start",
 "watch": false,
